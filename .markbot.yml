@@ -27,4 +27,4 @@ css:
 
 screenshots:
   - path: "index.html"
-    sizes: [320, 980]
+    sizes: [1400]
