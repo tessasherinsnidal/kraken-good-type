@@ -36,6 +36,8 @@ Visually match the images in the “screenshots” folder and create the interac
 
 Drop this folder into your Markbot application. Make sure to fix all the errors. And submit to Canvas using Markbot.
 
+*Markbot will be a little slow checking the screenshot for this website because the site is so long!*
+
 ---
 ---
 
@@ -44,3 +46,5 @@ Drop this folder into your Markbot application. Make sure to fix all the errors.
 *These challenges are here if you’d like to try a little more work—they are for extra experience and learning. They are completely optional and not graded. Show them to me if you’d like—I’d love to see them.*
 
 1. Pick a passage of the text and create a fancy pull quote in the middle of the chapter.
+
+(You are allowed to edit the HTML to complete the optional challenges.)
