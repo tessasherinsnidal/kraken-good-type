@@ -1,0 +1,30 @@
+repo: "kraken-good-type"
+canvasCourse: "467502"
+canvasAssignment: "4177762"
+
+naming: true
+commits: 2
+
+html:
+  - path: "index.html"
+    locked: true
+
+css:
+  - path: "css/main.css"
+    valid: true
+    bestPractices: true
+    has:
+      - ['html', 'box-sizing', 'border-box']
+      - ['body', 'margin', '0']
+      - ['img', 'display', 'block']
+      - ['img', 'width', '100%']
+    search:
+      - "Libre Baskerville"
+      - "1.5"
+      - "#259f95"
+      - "#1e7c74"
+      - "#222"
+
+screenshots:
+  - path: "index.html"
+    sizes: [320, 980]
