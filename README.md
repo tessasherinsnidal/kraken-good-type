@@ -5,7 +5,7 @@
 
 ---
 
-**Quick project summary shown here.**
+**Given some complete HTML, write the CSS to match the mockups in the screenshots.**
 
 - *Fork this repository.*
 - Write the CSS needed to create the layout—refer to what the HTML to figure you what elements to select.
