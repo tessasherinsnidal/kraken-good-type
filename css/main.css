@@ -1,5 +1,10 @@
 html {
   font-family: "Libre Baskerville", serif;
+  box-sizing: border-box;
+}
+
+body {
+  display: inline-block;
 }
 
 header {
@@ -24,9 +29,10 @@ header {
 header + p::first-line {
   font-style: italic;
   color: #259f95;
+  margin
 }
 
-article {
-  padding: 1.5em;
+p {
+  padding: 0 1.5em 0 1.5em;
   line-height: 1.5em;
 }
