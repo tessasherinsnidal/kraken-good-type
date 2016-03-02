@@ -1,0 +1,32 @@
+html {
+  font-family: "Libre Baskerville", serif;
+}
+
+header {
+  background-color: #259f95;
+  color: #fff;
+  margin: 0;
+  padding: 1.5em;
+  border-radius: 8px;
+}
+
+.chapter-num {
+  font-size: 0.75rem;
+  font-style: italic;
+  display: block;
+}
+
+.colon {
+  font-size: 1rem;
+  display: none;
+}
+
+header + p::first-line {
+  font-style: italic;
+  color: #259f95;
+}
+
+article {
+  padding: 1.5em;
+  line-height: 1.5em;
+}
